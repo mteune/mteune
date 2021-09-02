@@ -5,7 +5,7 @@ My name is Mariel Teune and I recently completed coding bootcamp and am excited 
 </p>
 
 <p>
-I am passionate about projects involving: 
+I am always looking for ways to make the world a better place in my own unique way and am passionate about projects involving:
 <br>
 🌱 sustainable & accessible agriculture
 <br>
