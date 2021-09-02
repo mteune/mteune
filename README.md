@@ -1,7 +1,7 @@
 <h1>Hi there, internet community!👋</h1>
 
 <p>
-My name is Mariel Teune and I recently completed coding bootcamp and am excited to see what I can build with my newly acquired skills. I am an entrepreneur with a speciality in international marketing and trade, as well as a mother of three littles. Fun fact: 📷 I am also a professional photographer! <a href="http://lumikhastudio.com/">www.lumikhastudio.com</a>
+My name is Mariel Teune and I recently completed coding bootcamp and am excited to see what I can build with my newly acquired skills. I am an entrepreneur with a speciality in international marketing and trade, as well as a mother of three littles. Fun fact: 📷 I am also a professional photographer! Check out my work at: <a href="http://lumikhastudio.com/">www.lumikhastudio.com</a>
 </p>
 
 <p>
