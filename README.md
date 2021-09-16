@@ -19,7 +19,7 @@ I am passionate about projects involving:
 </p>
 
 <p>
-In my spare time, you can find me searching for the perfect family getaway, hiking, taking photos, gardening, testing new recipes with my garden harvest and spending time with my favorite people.
+In my spare time, you can find me searching for the perfect family getaway, hiking, taking photos, coding, gardening, testing new recipes with my garden harvest and spending time with my favorite people.
 </p>
 
 <p>
